@@ -23,7 +23,7 @@ O site apresenta de forma educativa e acessível a trajetória de Ada Lovelace, 
 Durante o desenvolvimento deste projeto, foram trabalhadas habilidades como:
 
 - Estruturação de conteúdo semântico em HTML
-- Estilização com CSS focando em cores, responsividade e acessibilidade
+- Estilização com CSS focando em cores e acessibilidade
 - Manipulação de eventos e validação de formulários com JavaScript
 
 ## Feito com carinho 💜 por Evyla Bezerra (EB Dev) 💻✨
